@@ -6,6 +6,12 @@ Bu proje, **Python ve Pygame** kullanılarak geliştirilmiş bir Kablosuz Sensö
 
 
 
+https://github.com/user-attachments/assets/fe878b94-534b-408e-bb27-955da8956ff9
+
+
+
+
+
 ## 📸 Ekran Görüntüleri
 **Simülasyon Çalışma Anı:**
 <img width="1554" height="863" alt="Ekran görüntüsü 2026-05-14 160048" src="https://github.com/user-attachments/assets/0579ad3f-766e-4030-bcab-2bc7fdd2abe4" />
